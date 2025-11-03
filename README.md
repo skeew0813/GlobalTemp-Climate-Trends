@@ -98,12 +98,13 @@ This analysis identifies those regional differences and visualizes both long-ter
 
 ---
 
+## 🧾 Attribution
+This repository reflects my **analysis and modeling contributions** from a group project completed with classmates.  
+All code, modeling, and visualizations here were created and maintained by me.
+
+---
+
 ## 🔗 Portfolio Page
 This project is featured on my data portfolio:  
 [https://skeew0813.github.io/ryan-weeks-portfolio/work.html#globaltemp-case](https://skeew0813.github.io/ryan-weeks-portfolio/work.html#globaltemp-case)
 
----
-
-## 🧾 Attribution
-This repository reflects my **analysis and modeling contributions** from a group project completed with classmates.  
-All code, modeling, and visualizations here were created and maintained by me.
